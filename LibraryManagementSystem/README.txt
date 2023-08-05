@@ -2,6 +2,6 @@
 
 To run the program you must call it from an IDE or terminal on LibraryManager with a Java compiler.
 
-There are some implmentations that I plan to add in the future. Its a shell of what it will be.
+There are some implementations that I plan to add in the future. It's a shell of what it will be.
 
-If you are stuck at any point the file data is saved directly to the folders and cntrl+c quits the program instantly from the teriminal.
+If you are stuck at any point the file data is saved directly to the folders and cntrl+c quits the program instantly from the terminal.
