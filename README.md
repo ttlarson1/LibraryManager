@@ -1,4 +1,4 @@
-#THIS IS A QUICK RUNDOWN OF THE FILE
+#THIS IS A QUICK RUNDOWN OF THE FILE#
 
 To run the program you must call it from an IDE or terminal on LibraryManager with a Java compiler.
 
